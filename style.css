@@ -90,3 +90,121 @@ body{
     color: black;
 }
 /*bouns End section*/
+.section-three {
+    display: flex;
+    gap: 85px;
+    margin-top: 100px;
+    background-color: #F4F4F4;
+    margin-left: 240px;
+    margin-right: 240px;
+    margin-bottom: 150px;
+    height: 322px;
+    border-radius: 10px;
+}
+.section-three-cont {
+    margin-left: 100px;
+}
+.contant {
+    display: flex;
+    margin-left: 331px;
+    margin-top: 92px;
+}
+.section-there-discription {
+    margin-left: -23px;
+}
+
+/*section-four*/
+.section-four {
+    display: flex;
+    justify-content: center;
+    background-color: #F2DEE8;
+    margin-bottom: 150px;
+    padding: 105px;
+}
+.section-four-contant {
+    width: 50%;
+    margin-top: 65px;
+}
+.section-four-title {
+    font-size: 45px;
+    margin-left: 115px;
+}
+.section-four-description{
+    text-align: center;
+    font-size: 30px;
+}
+.primary-button2 {
+    background-color: #f767ab;
+    border: 0;
+    border-radius: 7px;
+    font-size: 28px;
+    font-weight: 700;
+    padding: 13px 45px 19px 45px;
+    margin-left: 295px;
+}
+.section-four-img {
+        margin-left: 185px;
+}
+/*section-four end*/
+.section-five-images{
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    margin-bottom: 150px;
+}
+/*section-six start*/
+.section-six{
+    background-image: url('../images/Rectangle 9.png');
+    background-repeat: no-repeat;
+    height: 450px;
+    margin-bottom: 150px;
+    margin-left: 223px;
+}
+.six-title{
+    font-size: 55px;
+}
+.section-six-content {
+    padding: 30px;
+    margin-left: 430px;
+}
+.six-discription {
+    font-size: 25px;
+    margin-left: 78px;
+}
+.six-form{
+    justify-content: center;
+}
+input[type="text"] {
+    padding: 21px;
+    width: 50%;
+    margin-left: 186px;
+    border-radius: 10px;
+}
+.primary-button3 {
+    background-color: #f767ab;
+    border: 0;
+    border-radius: 7px;
+    font-size: 28px;
+    font-weight: 700;
+    padding: 13px 41px 14px 37px;
+    margin-left: 40px;
+}
+
+/*footer section*/
+.footer-section {
+    background-color: black;
+    padding: 85px;
+}
+.footer-content{
+    text-align: center;
+    color: #F4F4F4;
+}
+.footer-title{
+    color: #f767ab;
+}
+.footer-heading{
+    font-size: 50px;
+}
+.footer-heading-description{
+    font-size: 20px;
+}
