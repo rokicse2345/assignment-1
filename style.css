@@ -50,7 +50,7 @@ body{
 }
 .bouns-section-box{
     display: flex;
-    gap: 15px;
+    gap: 50px;
     margin-top: 50px;
     justify-content: center;
 }
@@ -190,13 +190,37 @@ input[type="text"] {
     padding: 13px 41px 14px 37px;
     margin-left: 40px;
 }
+/*Extra Bouns*/
 
 
-.extra-bouns{
+.extra-section {
     display: flex;
+    gap: 100px;
+    background-color: rgb(189, 253, 232);
+    padding: 15px 245px;
+    margin-bottom: 150px;
+}
+.Extra-bouns{
+    width: 50%;
+}
+.contact input[type="text"], .contact input[type="email"],textarea{
+    
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    color: brown;
+    border: 0;
+    width: 100%;
+}
+.bouns-section-title {
+    font-size: 48px;
+    text-align: center;
 }
 
-
+.bon {
+    width: 60%;
+    margin-top: 47px;
+}
 /*footer section*/
 .footer-section {
     background-color: black;
