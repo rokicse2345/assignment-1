@@ -179,6 +179,7 @@ input[type="text"] {
     width: 50%;
     margin-left: 186px;
     border-radius: 10px;
+    border: 0;
 }
 .primary-button3 {
     background-color: #f767ab;
@@ -189,6 +190,12 @@ input[type="text"] {
     padding: 13px 41px 14px 37px;
     margin-left: 40px;
 }
+
+
+.extra-bouns{
+    display: flex;
+}
+
 
 /*footer section*/
 .footer-section {
